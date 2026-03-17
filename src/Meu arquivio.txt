@@ -1,2 +1,3 @@
 Arquivo do tide
 Resolvendo a Issue
+Ajustando na master
